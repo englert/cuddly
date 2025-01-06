@@ -1,11 +1,3 @@
-"""
-        ---
-        ### Feladat: Két szám összege. (2 pont)
-        - Írj egy függvényt __osszead__ néven,
-        - amely két számot kap és
-        - visszatér a két szám összegével.
-"""
-.
 def osszead(szam1, szam2):
     """ A függvény két számot kap és 
             visszatér a két szám összegével.
@@ -15,15 +7,6 @@ def osszead(szam1, szam2):
 # Ellenőrizd a függvényt a cella futtatásával! 
 # Az assert csak hiba esetén ad visszajelzést.
 #assert osszead(14, -8) == 6
-
-
-"""
-        ---
-        ### Feladat: Melyik a kisebb? (2 pont)
-        - Írj egy függvényt __kisebb__ néven,
-        - amely két számot kap és
-        - visszatér a kisebbel.
-"""
 
 def kisebb(szam1, szam2):
     """ A függvény két számot kap és 
@@ -36,14 +19,6 @@ def kisebb(szam1, szam2):
 
 #assert kisebb(10, -7) == -7
 #assert kisebb(-10, 7) == -10
-
-"""
-        ---
-        ### Feladat: Melyik a nagyobb? (2 pont)
-        - Írj egy függvényt __nagyobb__ néven,
-        - amely két számot kap és
-        - visszatér a nagyobbal.
-"""
 
 def nagyobb(szam1, szam2):
     """ A függvény két számot kap és 
